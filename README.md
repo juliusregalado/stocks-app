@@ -12,7 +12,7 @@ Stocks Tracker is a simple application where you can track and manage your stock
 	- dynamic display of information
 4. Frontend
 	- ERB and CSS
-5. Polishing and Debugging
+5. Polishing, Refactoring and Debugging
 ## System dependencies
   - Refer to gemgile
 ## Technologies, Tools and Resources
